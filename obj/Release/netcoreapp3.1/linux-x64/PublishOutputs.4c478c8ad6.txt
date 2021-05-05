@@ -1,0 +1,11 @@
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\CryptoPrice.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\CryptoPrice.deps.json
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\CryptoPrice.runtimeconfig.json
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\CryptoPrice.pdb
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\austin\source\repos\CryptoPrice\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
